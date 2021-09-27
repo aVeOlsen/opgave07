@@ -1,0 +1,16 @@
+C:\Users\Alexa\source\repos\opgave07\opgave07\bin\Debug\net5.0\opgave07.exe
+C:\Users\Alexa\source\repos\opgave07\opgave07\bin\Debug\net5.0\opgave07.deps.json
+C:\Users\Alexa\source\repos\opgave07\opgave07\bin\Debug\net5.0\opgave07.runtimeconfig.json
+C:\Users\Alexa\source\repos\opgave07\opgave07\bin\Debug\net5.0\opgave07.runtimeconfig.dev.json
+C:\Users\Alexa\source\repos\opgave07\opgave07\bin\Debug\net5.0\opgave07.dll
+C:\Users\Alexa\source\repos\opgave07\opgave07\bin\Debug\net5.0\ref\opgave07.dll
+C:\Users\Alexa\source\repos\opgave07\opgave07\bin\Debug\net5.0\opgave07.pdb
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.csproj.AssemblyReference.cache
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.AssemblyInfoInputs.cache
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.AssemblyInfo.cs
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.csproj.CoreCompileInputs.cache
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.dll
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\ref\opgave07.dll
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.pdb
+C:\Users\Alexa\source\repos\opgave07\opgave07\obj\Debug\net5.0\opgave07.genruntimeconfig.cache
